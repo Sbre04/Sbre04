@@ -1,5 +1,19 @@
 # 💫 About Me:
-🎓 I’m a Computer Science student<br>👉 Focused on mastering the fundamentals of technology and programming.<br><br>🛠️ I’m currently working on: small C projects<br>👉 Practicing core concepts like algorithms and memory management.<br><br>🌟 I want to learn: Rust<br>👉 Excited to explore safe and modern systems programming.
+
+### 🎓 Computer Science University Student
+Currently honing my skills by creating **small programs in Swift** and deepening my understanding of software development.
+
+### 🛠️ What I’m Working On
+- Practicing **Swift development**
+- Refining **problem-solving skills**
+- Exploring **software architecture**
+
+### 🌟 Future Goals
+- After university, I want to **study Cybersecurity**
+- Dive deeper into **digital security and ethical hacking**
+- Explore **network security, cryptography, and ethical hacking methodologies** 🚀
+
+
 
 
 ## 🌐 Socials:
